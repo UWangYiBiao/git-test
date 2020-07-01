@@ -19,4 +19,10 @@ public class HelloProject {
         System.out.println("hello,git!!!");
         System.out.println("hello,git!!!");
     }
+
+    public int test() {
+        int i = 0;
+        i += 10;
+        return i;
+    }
 }
